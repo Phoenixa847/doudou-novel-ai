@@ -1,11 +1,11 @@
 {
   "Product": {
-    "name": "ScriptCraft",
+    "name": "Script",
     "solgan": "创意到剧本，AI全程助力。"
   },
   "LandingPage": {
     "Index": {
-      "title": "ScriptCraft"
+      "title": "Script"
     },
     "Hero": {
       "title": "终极剧本创作工作平台",
